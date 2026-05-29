@@ -1,0 +1,14 @@
+# Visual Studio temporaries
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignora i file di persistenza locale del file system
+ChatServer/Data/
