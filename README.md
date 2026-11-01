@@ -14,5 +14,6 @@ dotnet build
 ## Running
 
 ```bash
+cd .\KeepAwake\
 dotnet run
 ```
